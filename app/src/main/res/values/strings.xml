@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Лаовай</string>
+
+    <!--bottom_navigation-->
+    <string name="bottom_menu_search">Поиск</string>
+    <string name="bottom_menu_bookmark">Избранное</string>
+
+    <!--search-->
+    <string name="empty_data">По Вашему запросу ничего не найдено</string>
+
+    <!--library-->
+    <string name="library_empty_data">Вы еще не добавили не одно слово</string>
+    <string name="favorite">Избранное</string>
+
+    <!--details_word-->
+    <string name="tab_translate">Перевод</string>
+    <string name="tab_example">Примеры</string>
+    <string name="empty_examples">Примеров нет</string>
+    <string name="tts_error">Произношение слова не работает</string>
+    <string name="menu_add">Добавить</string>
+    <string name="message_add_word">Слово добавлено в избранное</string>
+    <string name="message_exists_word">Слово уже находится в избранном</string>
+</resources>

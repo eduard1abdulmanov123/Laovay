@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="SearchViewStyle">
+        <item name="icon_search">@drawable/ic_search</item>
+        <item name="icon_clear">@drawable/ic_clear</item>
+        <item name="icon_back">@drawable/ic_search</item>
+    </style>
+
+</resources>

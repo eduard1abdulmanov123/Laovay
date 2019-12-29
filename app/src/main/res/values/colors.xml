@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#2F3542</color>
+
+    <color name="colorPrimary">#2e3643</color>
+    <color name="colorPrimaryDark">#2e3643</color>
+    <color name="colorPrimaryLight">#556171</color>
+    <color name="colorAccent">#f1c556</color>
+
+    <color name="menu_item_active">#f1c556</color>
+    <color name="menu_item_disabled">#838486</color>
+
+    <color name="tab_item_text_color_active">#2e3643</color>
+    <color name="tab_item_text_color_disabled">#ffffff</color>
+
+    <color name="color_empty_data">#ff4757</color>
+
+    <color name="color_light_gray">#DDDDDD</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SearchView">
+        <attr name="icon_search" format="integer"/>
+        <attr name="icon_back" format="integer"/>
+        <attr name="icon_clear" format="integer"/>
+        <attr name="background_button" format="integer"/>
+        <attr name="text_color" format="integer"/>
+        <attr name="cursor_color" format="integer"/>
+        <attr name="text_hint" format="integer"/>
+    </declare-styleable>
+
+</resources>
