@@ -22,7 +22,7 @@ import com.abdulmanov.laovay.mvp.views.list.ListView
 import com.abdulmanov.laovay.ui.adapters.LibraryAdapter
 
 class LibraryFragment : MvpAppCompatFragment(),ListView {
-
+// comment
     @Inject
     @InjectPresenter
     lateinit var presenter: LibraryPresenter
@@ -31,7 +31,7 @@ class LibraryFragment : MvpAppCompatFragment(),ListView {
     fun providePresenter(): LibraryPresenter {
         return presenter
     }
-
+// new new new
     private val adapter = LibraryAdapter({ startActivity(DetailsWordActivity.newIntent(context!!, it)) }) {
         presenter.removeFavoriteWord(it)
     }
