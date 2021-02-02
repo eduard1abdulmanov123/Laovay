@@ -22,7 +22,7 @@ import com.abdulmanov.laovay.mvp.views.list.ListView
 import com.abdulmanov.laovay.ui.adapters.LibraryAdapter
 
 class LibraryFragment : MvpAppCompatFragment(),ListView {
-
+// comment
     @Inject
     @InjectPresenter
     lateinit var presenter: LibraryPresenter
